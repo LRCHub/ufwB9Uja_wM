@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Pretty Please",
+  "base_artist": "Hearts2Hearts",
+  "createdAt": "2025-12-26T13:00:46.925542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Please Me",
+      "artist": "Nobunny",
+      "has_synced": false,
+      "path": "select/01_Pretty_Please_Me_Nobunny.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pretty Please",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/02_Pretty_Please_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pretty Please (Masters at Work Remix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/03_Pretty_Please_(Masters_at_Work_Remix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pretty Please (Midland Refix)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/04_Pretty_Please_(Midland_Refix)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty Please Me",
+      "artist": "The Dickies",
+      "has_synced": false,
+      "path": "select/05_Pretty_Please_Me_The_Dickies.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pretty Please Me (Live 1982)",
+      "artist": "The Dickies",
+      "has_synced": false,
+      "path": "select/06_Pretty_Please_Me_(Live_1982)_The_Dickies.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Please [Love Me] - feat. Cee-Lo",
+      "artist": "Estelle",
+      "has_synced": false,
+      "path": "select/07_Pretty_Please_[Love_Me]_-_feat._Cee-Lo_Estelle.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretty Please (Love Me)",
+      "artist": "Estelle Cee-Lo",
+      "has_synced": false,
+      "path": "select/08_Pretty_Please_(Love_Me)_Estelle_Cee-Lo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretty Please",
+      "artist": "Jackson Wang feat. Galantis",
+      "has_synced": true,
+      "path": "select/09_Pretty_Please_Jackson_Wang_feat._Galantis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretty Please",
+      "artist": "Jackson Wang & Galantis",
+      "has_synced": true,
+      "path": "select/10_Pretty_Please_Jackson_Wang_&_Galantis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretty Please (Masters at Work Remix) [Mixed]",
+      "artist": "Dua Lipa feat. The Blessed Madonna & Masters At Work",
+      "has_synced": true,
+      "path": "select/11_Pretty_Please_(Masters_at_Work_Remix)_[Mixed]_Dua_Lipa_feat._The_Blessed_Madonna_&_Masters_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretty Please (Masters at Work Remix) [Mixed]",
+      "artist": "Dua Lipa & The Blessed Madonna",
+      "has_synced": true,
+      "path": "select/12_Pretty_Please_(Masters_at_Work_Remix)_[Mixed]_Dua_Lipa_&_The_Blessed_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pretty Please (Midland Refix) [Mixed]",
+      "artist": "Dua Lipa feat. The Blessed Madonna & Midland",
+      "has_synced": true,
+      "path": "select/13_Pretty_Please_(Midland_Refix)_[Mixed]_Dua_Lipa_feat._The_Blessed_Madonna_&_Midland.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pretty Please (Midland Refix) [Mixed]",
+      "artist": "Dua Lipa & The Blessed Madonna",
+      "has_synced": true,
+      "path": "select/14_Pretty_Please_(Midland_Refix)_[Mixed]_Dua_Lipa_&_The_Blessed_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pretty Please",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/15_Pretty_Please_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pretty Please",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/16_Pretty_Please_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretty Please",
+      "artist": "Hearts2Hearts",
+      "has_synced": false,
+      "path": "select/pl_01_Pretty_Please_Hearts2Hearts.txt"
+    }
+  ]
+}
