@@ -1,0 +1,87 @@
+# Hearts2Hearts – Pretty Please
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Girls, you ready?
+We've been waiting for this time, for so long
+Baby, come and get the pretty please, yeah,
+please you (Ha-ha-ha)
+It's time to show what we got (Please, yeah,
+please you)
+Everybody sing it, pretty please
+이건 마치 perfect timing
+그냥 넘기기엔 예쁜 햇살까지
+고민 없이 걸어 call
+다 모여 여기 besties
+벌써 나 (Ah-ah) 두근대 (Pretty please, pretty
+please, yeah)
+Oh, 가방에 넣어놓은 Polaroid
+질릴 틈 없는 playlist
+준비는 완벽해
+넌 어때 기분이?
+Feels so good
+처음 발 닿는 곳이라도? It's okay
+너와 함께
+How it's so simple
+이 모든 게 favorite scenes
+Everybody, sing it pretty pleasе
+I'll be your pretty, pretty plеase
+찾아 우리만의 place
+어디든 달려갈래
+너의 손 꼭 잡은 채
+Go with flow, the vibe
+우리 story, follow me now
+Pre-pretty please on me
+Pre-pretty please on you
+콧노래 like, sing it la-ta-ta-ta
+생각은 less, 맘이 가는 대로
+낯선 거리라도
+궁금해 또 난 check, check, 하고 싶어
+On and on, 기분은 up
+어디로 more, 가볼까 더
+반짝이는 눈과 마음은 poppin', poppin'
+만들래 너와 함께 우리 finale
+We lookin' pretty good, pretty okay just like
+this
+How it's so simple
+이 모든 게 favorite scenes
+Everybody, sing it pretty please
+I'll be your pretty, pretty please
+찾아 우리만의 place
+어디든 달려갈래
+너의 손 꼭 잡은 채
+Go with flow, the vibe
+우리 story, follow me now
+Pre-pretty please on me
+Pre-pretty please on you
+Take it, take my love
+See ya, smiling to me 거 봐
+우린 함께일 때 더 빛나
+처음 만나는 세상이 커 보여도
+함께라면, I'm the, I'm the, I'm the winner
+Well, 사실 목적지는 중요하지
+않은 걸지도 몰라, ayy
+이대로 완벽해
+설레는 맘 이 순간
+다 멈춰줘, it's true
+Yeah, you're my own pretty please now
+Hope you feel the same
+I'll be your pretty, pretty please (Pretty,
+pretty please)
+찾아 우리만의 place (Ooh)
+어디든 달려갈래 (Right now, yeah)
+너의 손 꼭 잡은 채
+Go with flow, the vibe (Ooh)
+우리 story, follow me now (Oh)
+Pre-pretty please on me (Oh, pretty please)
+Pre-pretty please on you (Yeah, yeah)
+I'll be your pretty, pretty please
+Every step by step, 새로워 new day
+I'll be your pretty, pretty please
+Show me your pretty world, we are on the way
+Let's go with vibes
+우리 story, follow me now (Let's go, let's go)
+Pre-pretty please on me
+Pre-pretty please on you
+```
